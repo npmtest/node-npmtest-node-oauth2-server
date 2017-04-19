@@ -1,4 +1,7 @@
-# test coverage for  [node-oauth2-server (v2.4.0)](https://github.com/thomseddon/node-oauth2-server)  [![npm package](https://img.shields.io/npm/v/npmtest-node-oauth2-server.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-oauth2-server) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-oauth2-server.svg)](https://travis-ci.org/npmtest/node-npmtest-node-oauth2-server)
+# npmtest-node-oauth2-server
+
+#### basic test coverage for  [node-oauth2-server (v2.4.0)](https://github.com/thomseddon/node-oauth2-server)  [![npm package](https://img.shields.io/npm/v/npmtest-node-oauth2-server.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-oauth2-server) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-oauth2-server.svg)](https://travis-ci.org/npmtest/node-npmtest-node-oauth2-server)
+
 #### Complete, compliant and well tested module for implementing an OAuth2 Server/Provider with express in node.js
 
 [![NPM](https://nodei.co/npm/node-oauth2-server.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/node-oauth2-server)
